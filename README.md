@@ -16,3 +16,6 @@
 - 关于专业相关的软件基础知识以及使用技巧
 ### 获得的资源
 - 可以有更多的实践的机会
+***
+## 图片
+![image](https://github.com/Passer-SJY/Passer_414join/blob/main/Photo/_SLQ8622.jpg)
